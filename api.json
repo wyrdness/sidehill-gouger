@@ -1,0 +1,247 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/sidehill-gouger",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "sidehill-gouger",
+    "name": "Sidehill Gouger",
+    "aliases": [
+      {
+        "name": "Sidehill Dodger",
+        "region": "Various regions"
+      },
+      {
+        "name": "Sidewinder",
+        "region": "Regional variant"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": [
+      "fearsome-critter",
+      "lumberjack-folklore",
+      "north-america",
+      "asymmetrical",
+      "absurd"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "A creature with legs shorter on one side than the other, allowing it to walk comfortably on steep hillsides but only in one direction.",
+      "full": "The Sidehill Gouger is a fearsome critter from American lumberjack folklore, distinguished by having legs shorter on one side of its body than the other. This asymmetry allows it to walk perfectly on steep hillsides, but only in one direction around the hill. According to the tales, different species exist for clockwise versus counterclockwise travel, and a Sidehill Gouger is fatally vulnerable if caught on the wrong side of a hill. The creature represents the peak of fearsome critter absurdity - an obviously impossible anatomy presented as a humorous 'explanation' for adaptation to mountainous terrain. It was purely for entertainment, never meant to be believed."
+    },
+    "etymology": {
+      "origin": "American lumberjack folklore, late 1800s to early 1900s",
+      "meaning": "Named for walking on the 'side' of hills, 'gouging' paths along slopes",
+      "first_use": "Late 19th century"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Fearsome Critter",
+      "subtype": "Lumberjack Tall Tale / Impossible Anatomy",
+      "variant": "American Folklore"
+    },
+    "related_phenomena": [
+      {
+        "id": "splintercat",
+        "name": "Splintercat",
+        "relationship": "fellow_fearsome_critter",
+        "description": "Another absurd fearsome critter"
+      },
+      {
+        "id": "hoopsnake",
+        "name": "Hoopsnake",
+        "relationship": "fellow_fearsome_critter",
+        "description": "Fellow impossible creature"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "features": [
+        {
+          "feature": "Asymmetrical legs",
+          "description": "Legs on one side significantly shorter than the other",
+          "frequency": "always"
+        },
+        {
+          "feature": "Build",
+          "description": "Varies by account - sometimes goat-like, sometimes other quadrupeds",
+          "frequency": "variable"
+        },
+        {
+          "feature": "Orientation",
+          "description": "Body perpendicular to hillside when standing",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Quadruped with intentionally impossible asymmetrical leg structure"
+    },
+    "abilities": [
+      {
+        "ability": "Hillside walking",
+        "description": "Perfectly adapted to walk on steep slopes in one direction",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Perpetual circling",
+        "description": "Can only travel in circles around hills",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "any time",
+      "disposition": "neutral",
+      "social_structure": "solitary",
+      "habitat_preference": [
+        "steep hillsides",
+        "mountainous terrain",
+        "slopes"
+      ],
+      "diet": "Unspecified",
+      "patterns": [
+        "Walks only in one direction around hills",
+        "Cannot turn around",
+        "Fatal to be on wrong side of hill",
+        "Different species for clockwise vs counterclockwise"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "American lumberjack folklore from lumber camps, particularly in mountainous regions.",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada"],
+      "regions": [
+        "Mountainous lumber camps",
+        "Appalachian region",
+        "Rocky Mountains",
+        "Any hilly terrain"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Late 1800s",
+        "circa": true,
+        "source": "American lumberjack oral tradition"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1880s-1930s",
+          "description": "Golden age of fearsome critter folklore"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "American lumberjack folklore tradition. Represents the pinnacle of absurd 'adaptation' humor.",
+      "earliest_accounts": "Late 19th century oral traditions from lumber camps",
+      "folklore_connections": "Part of the 'fearsome critters' tradition, particularly the subset of creatures with impossible anatomies"
+    },
+    "timeline": [
+      {
+        "date": "1880s-1900s",
+        "event": "Sidehill Gouger tales spread through lumber camps",
+        "significance": "Becomes beloved example of absurd folklore",
+        "source": "Oral tradition"
+      },
+      {
+        "date": "1910",
+        "event": "Documented in fearsome critter collections",
+        "significance": "Written preservation",
+        "source": "Folklore books"
+      }
+    ],
+    "modern_era": "The Sidehill Gouger remains a favorite example of intentionally ridiculous fearsome critter folklore."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Lumberjack tall tales",
+        "Absurd creature humor",
+        "Greenhorn entertainment"
+      ],
+      "stories": [
+        "Tales of clockwise vs counterclockwise species",
+        "Stories of Gougers trapped on wrong hillside",
+        "Humorous 'adaptations' to terrain"
+      ],
+      "beliefs": "Obviously fictional - intentionally absurd for humor"
+    },
+    "purpose": {
+      "entertainment": "Pure humor and amusement",
+      "hazing": "Told to amuse greenhorns",
+      "cultural": "Example of lumberjack wit and absurdist humor"
+    },
+    "popular_culture": {
+      "literature": [
+        "Fearsome critter compilations",
+        "American folklore collections"
+      ],
+      "other": [
+        "Example of impossible anatomy folklore",
+        "Teaching tool for critical thinking"
+      ]
+    }
+  },
+
+  "theories": {
+    "folklore_analysis": [
+      {
+        "name": "Peak Absurdity",
+        "description": "Represents the intentionally ridiculous extreme of fearsome critter tradition",
+        "evidence_cited": ["Impossible anatomy", "Obviously fictional", "Pure humor"]
+      },
+      {
+        "name": "Adaptation Satire",
+        "description": "Satirizes the concept of evolutionary adaptation to environment",
+        "evidence_cited": ["Exaggerated 'adaptation' to hillsides", "Humorous take on natural selection"]
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": ["William T. Cox"],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": ["Henry H. Tryon"],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    }
+  ]
+}
