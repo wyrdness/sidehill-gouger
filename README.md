@@ -1,270 +1,158 @@
 # Sidehill Gouger
 
-> *"Legs shorter on one side - perfect for hillsides, deadly on flat ground."*
+> The Sidehill Gouger is a fearsome critter of American lumberjack folklore: a hoofed, hill-dwelling beast with legs shorter on one side than the other, perfectly adapted to walk a steep slope but only in one direction around a hill. It belongs to the humorous tall-tale tradition of the North American logging camps and is not a creature anyone was ever expected to believe in.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-folklore-lightgrey)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `sidehill-gouger` |
-| **Category** | CRYPTID (Fearsome Critter) |
-| **Classification** | Impossible Anatomy / Tall Tale |
-| **First Recorded** | Late 1800s |
-| **Primary Region** | North American mountainous areas |
-| **Status** | Folklore / Tall Tale |
+| **Category** | CRYPTID |
+| **Subcategory** | Fearsome critter / lumberjack tall-tale animal |
+| **First recorded** | 1910 |
+| **Primary range** | Reported in tall-tale tradition across the lumberwoods of the northern and western United States and adjacent Canada, particularly New England, the Adirondacks and Appalachians, the Great Lakes states, the Driftless Area of Wisconsin, the northern Rockies, and the Pacific Northwest |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Sidehill Gouger is a fearsome critter from American lumberjack folklore, distinguished by having legs shorter on one side of its body than the other. This asymmetry allows it to walk perfectly on steep hillsides, but only in one direction around the hill.
-
-According to the tales, different species exist for clockwise versus counterclockwise travel, and a Sidehill Gouger is fatally vulnerable if caught on the wrong side of a hill.
-
-The creature represents the peak of fearsome critter absurdity - an obviously impossible anatomy presented as a humorous "explanation" for adaptation to mountainous terrain. It was **purely for entertainment**, never meant to be believed.
+The Sidehill Gouger is one of the canonical 'fearsome critters' of North American lumberjack folklore — fictional animals of the bunkhouse tall-tale tradition, told (and dryly embellished) for the entertainment of new hands and visitors in late-19th and early-20th-century logging camps from New England west to the Pacific Northwest, and across the Great Lakes into Canada. The Gouger's defining feature is the asymmetric length of its legs: shorter on the uphill side and longer on the downhill side, allowing it to walk a steep mountainside in level comfort but only in one direction around the hill. Two opposed species or 'breeds' — clockwise and counterclockwise — are joked to occasionally meet, mate, and produce normal-legged offspring that have to take their chances on flat ground. The creature's mortal weakness is to be turned around to face the other way, or driven into the plain, where it is condemned to walk in endless circles. The Sidehill Gouger appears under many regional names — Sidehill Hoofer, Sidehill Dodger, Sidehill Wowser, Sidehill Winder, Wampahoofus (Vermont), Gwinter (Appalachia) — and is included in the canonical fearsome-critters compendia of William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910) and Henry H. Tryon's 'Fearsome Critters' (1939). Its function in tradition is unambiguously comic: an absurd 'just-so' explanation of mountain adaptation that takes the deadpan logic of natural selection one step too far.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Sidehill Hoofer | English (US) / Lumberwoods of the United States |  |
+| Sidehill Dodger | English (US) |  |
+| Sidehill Wowser | English (US) |  |
+| Sidehill Gazink | English (US) |  |
+| Sidehill Winder | English (US) |  |
+| Wampahoofus | English (US) / Vermont |  |
+| Gwinter | English (US) / Appalachia |  |
+| Cutter Cuss | English (US) |  |
+| Rickaboo Racker | English (US) |  |
 
-### Primary Name
-- **Sidehill Gouger** — Named for walking on the "side" of hills, "gouging" paths along slopes.
+## Etymology
 
-### Alternative Names
-- **Sidehill Dodger** — Regional variant name
-- **Sidewinder** — Another regional variant
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Fearsome Critter
-├── Subtype: Impossible Anatomy / Tall Tale
-└── Variant: American Folklore
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Splintercat](/splintercat) | Fellow fearsome critter | Tree-smashing cat |
-| [Hoopsnake](/hoopsnake) | Fellow fearsome critter | Rolling snake |
+- **Origin**: American English (lumberwoods slang).
+- **Meaning**: 'Side-hill' = a steep hillside; 'gouger' = something that gouges, here a punning name for an animal whose feet purportedly cut into the hill. Variants substitute hoofer, dodger, wowser, winder, etc.
+- **First use**: Late 19th century in oral lumberjack tradition; printed in William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910).
 
 ---
+## Related Phenomena
 
-## Characteristics
-
-### Physical Description
-
-| Attribute | Description |
-|-----------|-------------|
-| **Defining Feature** | Legs shorter on one side than the other |
-| **Build** | Varies - sometimes goat-like, sometimes other quadrupeds |
-| **Orientation** | Body perpendicular to hillside when standing |
-| **Appearance** | Otherwise normal animal except for asymmetry |
-
-### The Impossible Anatomy
-
-**Leg Configuration**:
-- Left legs: Short
-- Right legs: Long
-- (Or vice versa, depending on species)
-
-**Result**:
-- Perfect for steep slopes
-- Can only walk in one direction
-- Cannot turn around
-- Fatal to reverse direction
-
-### Reported Abilities
-
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Hillside walking | Perfectly adapted for steep slopes in one direction | Folklore |
-| Perpetual circling | Can only travel in circles around hills | Folklore |
-
-### Behavioral Patterns
-
-- **Activity Period**: Any time
-- **Habitat Preference**: Steep hillsides, mountainous terrain
-- **Movement**: Only one direction around hills
-- **Vulnerability**: Cannot turn around; wrong hillside is fatal
-- **Species Variation**: Clockwise species vs. counterclockwise species
+- [Hodag](../hodag/) — _similar_: Wisconsin fearsome critter from the same lumberjack tall-tale tradition
+- [Hidebehind](../hidebehind/) — _similar_: Lumberjack tall-tale predator that always hides behind trees
+- [Agropelter](../agropelter/) — _similar_: Tree-throwing fearsome critter from Cox (1910)
+- [Splinter Cat](../splinter-cat/) — _similar_: Tree-shattering fearsome critter from Cox (1910)
+- [Wild haggis](../haggis-wild/) — _counterpart_: Scottish counterpart with the same asymmetric-leg joke
+- [Dahu](../dahu/) — _counterpart_: French / Alpine counterpart with shorter legs on one side
 
 ---
+## Physical Description
 
-## The Legend
+- **Morphology**: A roughly mammalian quadruped variously imagined as goat-like, cow-like, badger-like, or pig-like depending on region; the only constant feature is the leg-length asymmetry.
 
-### How It Works (According to Folklore)
+### Features
 
-**Adaptation**:
-1. Short legs on uphill side
-2. Long legs on downhill side
-3. Body stays level on slope
-4. Perfect balance on steep terrain
+| Feature | Description | Frequency |
+|---|---|---|
+| Asymmetric legs | Legs on one side of the body are markedly shorter than those on the other, allowing level walking on a hillside. | always |
+| Hooves or sharp feet | Reportedly hoofed, with feet able to gouge into a steep slope (hence the name). | common |
+| Two opposed breeds | A clockwise breed and a counterclockwise breed exist, separated by their incompatible directions of travel. | always |
 
-**Limitations**:
-1. **Cannot turn around** - legs prevent reversal
-2. **One direction only** - must circle perpetually
-3. **Wrong side is fatal** - cannot adapt to opposite slope
-4. **Species specific** - clockwise vs counterclockwise gougers
+## Reported Abilities
 
-**The Joke**:
-- Obviously impossible anatomy
-- Absurd "evolutionary adaptation"
-- Perpetually trapped in circles
-- Peak fearsome critter ridiculousness
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Effortless hillside locomotion | Walks a steep mountainside as if on level ground, in a single fixed direction around the hill. | always | folklore |
+| Hopeless on flat ground | On the plain, the asymmetry forces it into endless circular paths, where it is easily caught. | always | folklore |
 
----
+## Behavior
 
-## Why It's Absurd
-
-### Biological Impossibility
-
-**No animal can have this anatomy because**:
-1. Bilateral symmetry is fundamental to vertebrate evolution
-2. Asymmetrical leg length would cause:
-   - Spinal deformities
-   - Organ displacement
-   - Circulatory problems
-   - Locomotion issues on flat ground
-3. Evolution doesn't produce such extreme maladaptations
-4. Animals use different strategies for hillside living (mountain goats have symmetric legs)
-
-### The Point: It's Supposed to Be Ridiculous
-
-The Sidehill Gouger is **intentionally absurd**:
-- ✓ Obviously impossible
-- ✓ Humorously exaggerated
-- ✓ Satirizes adaptation concepts
-- ✓ Never meant to fool anyone
+- **Activity**: diurnal
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: steep mountainsides, logging country, New England hills, Appalachian ridges, western mountain ranges
+- **Diet**: Browse and forage typical of mountain quadrupeds (in the joke)
 
 ---
+## Distribution
 
-## Cultural Significance
+Reported in tall-tale tradition across the lumberwoods of the northern and western United States and adjacent Canada, particularly New England, the Adirondacks and Appalachians, the Great Lakes states, the Driftless Area of Wisconsin, the northern Rockies, and the Pacific Northwest.
 
-### Lumberjack Humor
-
-The Sidehill Gouger represents:
-
-**Peak Absurdity**:
-- Most ridiculous fearsome critter anatomy
-- Intentional impossibility
-- Test of gullibility (for greenhorns)
-- Example of lumberjack wit
-
-**Adaptation Satire**:
-- Mocks the concept of over-specialized evolution
-- Exaggerates adaptation to absurd extreme
-- Humorous take on natural selection
-
-### Modern Legacy
-
-Today recognized as:
-- Classic example of tall tale tradition
-- Teaching tool for critical thinking
-- Example of occupational folklore humor
-- Peak absurdist creature design
 
 ---
-
-## Variations
-
-### Species Types
-
-**Clockwise Gouger**:
-- Short right legs
-- Travels clockwise around hills
-- Cannot coexist with counterclockwise species
-
-**Counterclockwise Gouger**:
-- Short left legs
-- Travels counterclockwise
-- Different species entirely
-
-**The Humor**: Different "species" for different directions around the same hill!
-
----
-
 ## Historical Timeline
 
 | Date | Event | Significance |
-|------|-------|--------------|
-| 1880s-1900s | Tales spread through lumber camps | Becomes beloved absurd folklore |
-| 1910 | Documented in fearsome critter collections | Written preservation |
-| Present | Continues as folklore example | Teaching tool and humor |
+|---|---|---|
+| 1910 | William T. Cox publishes 'Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts' | First printed compendium to record the Sidehill Gouger and its kin |
+| 1939 | Henry H. Tryon publishes 'Fearsome Critters' | Second canonical fearsome-critters compendium, with extensive Sidehill Gouger material |
+| 1976 | Vance Randolph documents Ozark variants of side-hill creatures in 'We Always Lie to Strangers' | Folkloric attestation in another regional tradition |
+
+## Evidence
+
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Cox, Fearsome Creatures of the Lumberwoods | 1910 | Foundational compendium of fearsome critters including the Sidehill Gouger, illustrated by Coert du Bois. | verified |
+| Tryon, Fearsome Critters | 1939 | Second canonical fearsome-critters book, with expanded Sidehill Gouger entry. | verified |
 
 ---
+## Theories & Explanations
 
-## Status: Obviously Fictional
+### Skeptical
 
-⚠️ **Important Note**: The Sidehill Gouger is **intentionally ridiculous**.
+**Lumberjack tall tale (intentional fiction)** _(William T. Cox, Henry H. Tryon, Loren Coleman, Folklorists of North American occupational tradition)_
 
-**Purpose**:
-- ✅ Pure entertainment and humor
-- ✅ Greenhorn amusement
-- ✅ Example of lumberjack wit
-- ✅ Peak fearsome critter absurdity
+The Sidehill Gouger is a humorous bunkhouse invention — an absurd 'adaptation' joke told to greenhorns and visitors, never intended as a literal claim about wildlife.
 
-**Reality**:
-- ❌ Impossible anatomy
-- ❌ Violates basic biology
-- ❌ Never meant to be believed
-- ✅ That's the entire joke!
+
+## Popular Culture
+
+**Literature**: Cox, William T., Fearsome Creatures of the Lumberwoods (1910); Tryon, Henry H., Fearsome Critters (1939); Schwartz, Alvin, Whoppers: Tall Tales and Other Lies (1975)
+
+**Other**: Wampahoofus Trail on Mount Mansfield, Vermont; Appearances in modern fearsome-critters revivals and tabletop bestiaries
 
 ---
+## Research
 
-## API Reference
+### Researchers
 
-Machine-readable data is available in [`api.json`](api.json).
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| William T. Cox | Minnesota State Forester | Author of the first printed fearsome-critters compendium (1910) | 1900s–1910s |
+| Henry H. Tryon | Cornell University / Black Rock Forest | Author of the 1939 fearsome-critters compendium | 1930s |
+| Loren Coleman | International Cryptozoology Museum | Modern documentation of fearsome critters in cryptozoological context | 1970s–present |
 
-### Data Access
+### Organizations
 
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const sidehillGouger = await wyrd.getPhenomenon('sidehill-gouger');
-```
+- [International Cryptozoology Museum](https://www.cryptozoologymuseum.com) — Curation of fearsome-critters tradition
 
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/sidehill-gouger/main/api.json
-```
+Current scholarly interest is folkloric and literary, focusing on the fearsome-critters tradition as a corpus of American occupational humour.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Primary Sources
+## How to Report a Sighting
 
-- Cox, W.T. (1910). *Fearsome Creatures of the Lumberwoods*. Judd & Detweiler.
-- Tryon, H.H. (1939). *Fearsome Critters*. Idlewild Press.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

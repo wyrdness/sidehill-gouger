@@ -1,41 +1,16 @@
-# Sources & References
+# Sources & References — Sidehill Gouger
+
+Bibliography compiled from `api.json`. To add a source, edit `api.json` and regenerate.
 
 ## Books
 
-### Fearsome Critters Collections
-- Cox, W.T. (1910). *Fearsome Creatures of the Lumberwoods*. Judd & Detweiler, Washington D.C.
-- Tryon, H.H. (1939). *Fearsome Critters*. Idlewild Press, Cornwall, NY.
-- Brown, C.E. (1935). *Paul Bunyan Natural History*. Madison, Wisconsin.
+- William T. Cox. (1910). *Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts*. Judd & Detweiler
+- Henry H. Tryon. (1939). *Fearsome Critters*. Idlewild Press
 
-### American Folklore
-- Dorson, R.M. (1952). *Bloodstoppers and Bearwalkers: Folk Traditions of Michigan's Upper Peninsula*. Harvard University Press.
-- Botkin, B.A. (1944). *A Treasury of American Folklore*. Crown Publishers.
+## Websites
 
-## Academic Sources
-
-### Folklore Studies
-- Dorson, R.M. (1959). *American Folklore*. University of Chicago Press.
-- Brunvand, J.H. (1968). *The Study of American Folklore: An Introduction*. W.W. Norton.
-
-### Lumberjack Culture
-- Holbrook, S.H. (1938). *Holy Old Mackinaw: A Natural History of the American Lumberjack*. Macmillan.
-
-## Online Resources
-
-- Library of Congress. American Folklife Center. https://www.loc.gov/folklife/
-- American Folklore Society. https://www.afsnet.org/
+- *Sidehill gouger*. Wikipedia. <https://en.wikipedia.org/wiki/Sidehill_gouger>
+- *Fearsome critters*. Wikipedia. <https://en.wikipedia.org/wiki/Fearsome_critters>
 
 ---
-
-## Citation Format
-
-When citing this repository:
-
-```
-Wyrdness Project. (2026). Sidehill Gouger. Wyrdness Paranormal Archive.
-https://github.com/wyrdness/sidehill-gouger
-```
-
----
-
-*Last Updated: 2026-01-14*
+_Auto-generated from `api.json`._

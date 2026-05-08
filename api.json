@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/sidehill-gouger",
     "maintainers": [
       {
@@ -16,72 +16,130 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "sidehill-gouger",
     "name": "Sidehill Gouger",
-    "aliases": [],
+    "aliases": [
+      { "name": "Sidehill Hoofer", "language": "English (US)", "region": "Lumberwoods of the United States" },
+      { "name": "Sidehill Dodger", "language": "English (US)" },
+      { "name": "Sidehill Wowser", "language": "English (US)" },
+      { "name": "Sidehill Gazink", "language": "English (US)" },
+      { "name": "Sidehill Winder", "language": "English (US)" },
+      { "name": "Wampahoofus", "language": "English (US)", "region": "Vermont" },
+      { "name": "Gwinter", "language": "English (US)", "region": "Appalachia" },
+      { "name": "Cutter Cuss", "language": "English (US)" },
+      { "name": "Rickaboo Racker", "language": "English (US)" }
+    ],
     "category": "CRYPTID",
-    "subcategory": "Impossible Anatomy / Tall Tale",
+    "subcategory": "Fearsome critter / lumberjack tall-tale animal",
     "tags": [
-      "folklore",
-      "mythology"
+      "fearsome-critter",
+      "tall-tale",
+      "lumberjack-folklore",
+      "north-america",
+      "humor",
+      "asymmetric-anatomy",
+      "appalachia",
+      "new-england"
     ],
     "status": "documented",
     "description": {
-      "summary": "The Sidehill Gouger is a fearsome critter from American lumberjack folklore, distinguished by having legs shorter on one side of its body than the other.",
-      "full": "The Sidehill Gouger is a fearsome critter from American lumberjack folklore, distinguished by having legs shorter on one side of its body than the other. This asymmetry allows it to walk perfectly on steep hillsides, but only in one direction around the hill. According to the tales, different species exist for clockwise versus counterclockwise travel, and a Sidehill Gouger is fatally vulnerable if caught on the wrong side of a hill. The creature represents the peak of fearsome critter absurdity - an obviously impossible anatomy presented as a humorous \\\"explanation\\\" for adaptation to mountainous terrain. It was **purely for entertainment**, never meant to be believed."
+      "summary": "The Sidehill Gouger is a fearsome critter of American lumberjack folklore: a hoofed, hill-dwelling beast with legs shorter on one side than the other, perfectly adapted to walk a steep slope but only in one direction around a hill. It belongs to the humorous tall-tale tradition of the North American logging camps and is not a creature anyone was ever expected to believe in.",
+      "full": "The Sidehill Gouger is one of the canonical 'fearsome critters' of North American lumberjack folklore — fictional animals of the bunkhouse tall-tale tradition, told (and dryly embellished) for the entertainment of new hands and visitors in late-19th and early-20th-century logging camps from New England west to the Pacific Northwest, and across the Great Lakes into Canada. The Gouger's defining feature is the asymmetric length of its legs: shorter on the uphill side and longer on the downhill side, allowing it to walk a steep mountainside in level comfort but only in one direction around the hill. Two opposed species or 'breeds' — clockwise and counterclockwise — are joked to occasionally meet, mate, and produce normal-legged offspring that have to take their chances on flat ground. The creature's mortal weakness is to be turned around to face the other way, or driven into the plain, where it is condemned to walk in endless circles. The Sidehill Gouger appears under many regional names — Sidehill Hoofer, Sidehill Dodger, Sidehill Wowser, Sidehill Winder, Wampahoofus (Vermont), Gwinter (Appalachia) — and is included in the canonical fearsome-critters compendia of William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910) and Henry H. Tryon's 'Fearsome Critters' (1939). Its function in tradition is unambiguously comic: an absurd 'just-so' explanation of mountain adaptation that takes the deadpan logic of natural selection one step too far."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "American English (lumberwoods slang).",
+      "meaning": "'Side-hill' = a steep hillside; 'gouger' = something that gouges, here a punning name for an animal whose feet purportedly cut into the hill. Variants substitute hoofer, dodger, wowser, winder, etc.",
+      "first_use": "Late 19th century in oral lumberjack tradition; printed in William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910)."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Impossible Anatomy / Tall Tale",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Fearsome critter",
+      "subtype": "Asymmetric mountain quadruped",
+      "variant": "Clockwise / counterclockwise breeds"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "hodag", "name": "Hodag", "relationship": "similar", "description": "Wisconsin fearsome critter from the same lumberjack tall-tale tradition" },
+      { "id": "hidebehind", "name": "Hidebehind", "relationship": "similar", "description": "Lumberjack tall-tale predator that always hides behind trees" },
+      { "id": "agropelter", "name": "Agropelter", "relationship": "similar", "description": "Tree-throwing fearsome critter from Cox (1910)" },
+      { "id": "splinter-cat", "name": "Splinter Cat", "relationship": "similar", "description": "Tree-shattering fearsome critter from Cox (1910)" },
+      { "id": "haggis-wild", "name": "Wild haggis", "relationship": "counterpart", "description": "Scottish counterpart with the same asymmetric-leg joke" },
+      { "id": "dahu", "name": "Dahu", "relationship": "counterpart", "description": "French / Alpine counterpart with shorter legs on one side" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Asymmetric legs", "description": "Legs on one side of the body are markedly shorter than those on the other, allowing level walking on a hillside.", "frequency": "always" },
+        { "feature": "Hooves or sharp feet", "description": "Reportedly hoofed, with feet able to gouge into a steep slope (hence the name).", "frequency": "common" },
+        { "feature": "Two opposed breeds", "description": "A clockwise breed and a counterclockwise breed exist, separated by their incompatible directions of travel.", "frequency": "always" }
+      ],
+      "morphology": "A roughly mammalian quadruped variously imagined as goat-like, cow-like, badger-like, or pig-like depending on region; the only constant feature is the leg-length asymmetry."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Effortless hillside locomotion", "description": "Walks a steep mountainside as if on level ground, in a single fixed direction around the hill.", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Hopeless on flat ground", "description": "On the plain, the asymmetry forces it into endless circular paths, where it is easily caught.", "frequency": "always", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "diurnal",
+      "disposition": "neutral",
+      "social_structure": "solitary",
+      "habitat_preference": ["steep mountainsides", "logging country", "New England hills", "Appalachian ridges", "western mountain ranges"],
+      "diet": "Browse and forage typical of mountain quadrupeds (in the joke)",
+      "patterns": [
+        "Walks one way around a hill",
+        "Avoids open ground",
+        "Cannot reverse direction without falling over"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Reported in tall-tale tradition across the lumberwoods of the northern and western United States and adjacent Canada, particularly New England, the Adirondacks and Appalachians, the Great Lakes states, the Driftless Area of Wisconsin, the northern Rockies, and the Pacific Northwest.",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada"],
+      "regions": [
+        "New England",
+        "Vermont (Mount Mansfield as Wampahoofus)",
+        "Appalachian Mountains",
+        "Great Lakes lumber country",
+        "Driftless Area (Wisconsin)",
+        "Pacific Northwest"
+      ]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
+        "date": "1910",
+        "circa": false,
+        "source": "William T. Cox, Fearsome Creatures of the Lumberwoods (1910)"
+      },
+      "peak_activity_periods": [
+        { "period": "1880s–1930s", "description": "Heyday of the bunkhouse fearsome-critter tradition in active logging camps." }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "American lumberjack bunkhouse oral tradition; companion humour to Paul Bunyan and Pecos Bill tall tales.",
+      "earliest_accounts": "Late-19th-century oral tradition; first printed in William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910).",
+      "folklore_connections": "Cognate with the Scottish wild haggis and Alpine dahu, both of which feature the same asymmetric-leg joke."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1910", "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts'", "significance": "First printed compendium to record the Sidehill Gouger and its kin", "source": "Cox, W. T. (1910)" },
+      { "date": "1939", "event": "Henry H. Tryon publishes 'Fearsome Critters'", "significance": "Second canonical fearsome-critters compendium, with extensive Sidehill Gouger material", "source": "Tryon, H. H. (1939)" },
+      { "date": "1976", "event": "Vance Randolph documents Ozark variants of side-hill creatures in 'We Always Lie to Strangers'", "significance": "Folkloric attestation in another regional tradition", "source": "Randolph (1951; reprint)" }
+    ],
+    "modern_era": "The Sidehill Gouger persists as a humorous emblem of New England, Appalachian, and Pacific Northwest folk tradition, recurring in regional festivals, ski-resort signage (notably Mount Mansfield, Vermont, where a hiking trail bears the Wampahoofus name), and in the recent revival of fearsome-critters compendia."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +150,96 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "sidehill-gouger-evidence-cox-1910",
+        "type": "book",
+        "name": "Cox, Fearsome Creatures of the Lumberwoods",
+        "date": "1910",
+        "description": "Foundational compendium of fearsome critters including the Sidehill Gouger, illustrated by Coert du Bois.",
+        "status": "verified",
+        "analysis": "Primary printed source for Sidehill Gouger material.",
+        "source": "Cox, W. T. (1910)"
+      },
+      {
+        "id": "sidehill-gouger-evidence-tryon-1939",
+        "type": "book",
+        "name": "Tryon, Fearsome Critters",
+        "date": "1939",
+        "description": "Second canonical fearsome-critters book, with expanded Sidehill Gouger entry.",
+        "status": "verified",
+        "analysis": "Standard reference for early-20th-century fearsome-critters tradition.",
+        "source": "Tryon, H. H. (1939)"
+      }
+    ]
   },
+
   "theories": {
     "paranormal": [],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Lumberjack tall tale (intentional fiction)",
+        "description": "The Sidehill Gouger is a humorous bunkhouse invention — an absurd 'adaptation' joke told to greenhorns and visitors, never intended as a literal claim about wildlife.",
+        "proponents": ["William T. Cox", "Henry H. Tryon", "Loren Coleman", "Folklorists of North American occupational tradition"],
+        "evidence_cited": ["Self-aware humor of the printed compendia", "Cross-cultural cognates (haggis, dahu)", "No serious scientific or amateur investigation of the creature"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "American lumberjack bunkhouse tall-tale tradition",
+        "Vermont Wampahoofus tradition (Mount Mansfield)",
+        "Appalachian Gwinter tradition",
+        "Great Lakes / Wisconsin Driftless lumberwoods tradition"
+      ],
+      "stories": [
+        "Cox, W. T. (1910), 'The Sidehill Gouger' chapter",
+        "Tryon, H. H. (1939), 'Sidehill Gouger' / 'Sidehill Hoofer' entries"
+      ],
+      "beliefs": "Functions as humour, not as belief; participation in the joke is the test of belonging in lumberjack and outdoor culture."
     },
     "popular_culture": {
-      "literature": [],
+      "literature": [
+        "Cox, William T., Fearsome Creatures of the Lumberwoods (1910)",
+        "Tryon, Henry H., Fearsome Critters (1939)",
+        "Schwartz, Alvin, Whoppers: Tall Tales and Other Lies (1975)"
+      ],
       "film_tv": [],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Wampahoofus Trail on Mount Mansfield, Vermont",
+        "Appearances in modern fearsome-critters revivals and tabletop bestiaries"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "William T. Cox", "affiliation": "Minnesota State Forester", "contribution": "Author of the first printed fearsome-critters compendium (1910)", "period": "1900s–1910s" },
+      { "name": "Henry H. Tryon", "affiliation": "Cornell University / Black Rock Forest", "contribution": "Author of the 1939 fearsome-critters compendium", "period": "1930s" },
+      { "name": "Loren Coleman", "affiliation": "International Cryptozoology Museum", "contribution": "Modern documentation of fearsome critters in cryptozoological context", "period": "1970s–present" }
+    ],
+    "organizations": [
+      { "name": "International Cryptozoology Museum", "url": "https://www.cryptozoologymuseum.com", "focus": "Curation of fearsome-critters tradition" }
+    ],
+    "ongoing_studies": "Current scholarly interest is folkloric and literary, focusing on the fearsome-critters tradition as a corpus of American occupational humour."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-sidehill-gouger", "type": "website", "title": "Sidehill gouger", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Sidehill_gouger", "accessed": "2026-05-07" },
+    { "id": "wikipedia-fearsome-critters", "type": "website", "title": "Fearsome critters", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Fearsome_critters", "accessed": "2026-05-07" },
+    { "id": "cox-1910", "type": "book", "title": "Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts", "authors": ["William T. Cox"], "publication": "Judd & Detweiler", "date": "1910" },
+    { "id": "tryon-1939", "type": "book", "title": "Fearsome Critters", "authors": ["Henry H. Tryon"], "publication": "Idlewild Press", "date": "1939" }
+  ]
 }
